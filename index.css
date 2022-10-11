@@ -1,3 +1,6 @@
+body{
+  background-color: black;
+}
 #iconic{
     color: green;
     text-align: center;
@@ -31,29 +34,22 @@ img {
     font-size: larger;
     
   }
-  #shape:hover{
-    background-color:  red;
-  }
+  
   #shapeOf{
     position: absolute;
     top: 350px;
     right: 500px;
     font-size: larger;
   }
-  #shapeOf:hover{
-    background-color: green;
-  }
+  
+  
   #ed{
     position: absolute;
     top: 400px;
     right: 500px;
     font-size: larger;
   }
-  #ed:hover{
-    
-        text-shadow: 0 0 3px #FF0000;
-       
-  }
+  
   /* song 2 */
   #week1{
     position: absolute;
@@ -61,9 +57,8 @@ img {
     right: 425px;
     font-size: larger;
   }
-  #week1:hover{
-    background-color:  red;
-  }
+ 
+  
   #week2{
     position: absolute;
     top: 750px;
@@ -76,12 +71,7 @@ img {
     right: 525px;
     font-size: larger;
   }
-  #week2:hover{
-    background-color: green;
-  }
-  #week3:hover{
-    text-shadow: 0 0 3px #FF0000;
-  }
+  
   /* song3 */
   #monkey1{
     position: absolute;
@@ -101,15 +91,7 @@ img {
     right: 525px;
     font-size: larger;
   }
-  #monkey1:hover{
-    background-color:  red;
-  }
-  #monkey2:hover{
-    background-color: green;
-  }
-  #monkey3:hover{
-    text-shadow: 0 0 3px #FF0000;
-  }
+  
   /* song4 */
   #rock1{
     position: absolute;
@@ -129,15 +111,8 @@ img {
     right: 525px;
     font-size: larger;
   }
-  #rock1:hover{
-    background-color:  red;
-  }
-  #rock2:hover{
-    background-color: green;
-  }
-  #rock3:hover{
-    text-shadow: 0 0 3px #FF0000;
-  }
+  
+  
   /* song5 */
   #love1{
     position: absolute;
@@ -157,15 +132,7 @@ img {
     right: 525px;
     font-size: larger;
   }
-  #love1:hover{
-    background-color:  red;
-  }
-  #love2:hover{
-    background-color: green;
-  }
-  #love3:hover{
-    text-shadow: 0 0 3px #FF0000;
-  }
+  
   /* #song6{ */
 #dance1{
     position: absolute;
@@ -185,15 +152,7 @@ img {
     right: 525px;
     font-size: larger;
 }
-#dance1:hover{
-    background-color: red;
-}
-#dance2:hover{
-    background-color :green ;
-}
-#dance3:hover{
-    text-shadow: 0 0 3px #FF0000;
-}
+
 /* song7 */
 #sun1{
     position: absolute;
@@ -213,15 +172,7 @@ img {
     right: 525px;
     font-size: larger;
 }
-#sun1:hover{
-background-color: red;
-}
-  #sun2:hover{
-    background-color: green;
-  }
-  #sun3:hover{
-    text-shadow: 0 0 3px #FF0000;
-  }
+
 /* song 8 */
 #close1{
     position: absolute;
@@ -241,15 +192,8 @@ background-color: red;
     right: 525px;
     font-size: larger;
 }
-#close1:hover{
-    background-color: red;
-}
-#close2:hover{
-    background-color: green;
-}
-#close3:hover{
-    text-shadow: 0 0 3px #FF0000;
-}
+
+
 /* song 9 */
 #sui1{
     position: absolute;
@@ -269,15 +213,7 @@ background-color: red;
     right: 525px;
     font-size: larger;
 }
-#sui1:hover{
-    background-color: red;
-}
-#sui2:hover{
-    background-color: green;
-}
-#sui3:hover{
-    text-shadow: 0 0 3px #FF0000
-}
+
 /* song10 */
 #belive1{
     position: absolute;
@@ -297,12 +233,12 @@ background-color: red;
     right: 525px;
     font-size: larger;
 }
-#belive1:hover{
-background-color: red;
+.youtube:hover{
+   background-color: red;
 }
-#belive2:hover{
-    background-color: green;
+.lycris:hover{
+  background-color: green;
 }
-#belive3:hover{
-    text-shadow: 0 0 3px #FF0000
+.wiki:hover{
+  text-shadow: 0 0 3px #FF0000;
 }
