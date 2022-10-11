@@ -1,0 +1,308 @@
+#iconic{
+    color: green;
+    text-align: center;
+   font-size: 60px;
+}
+
+h2{
+    color: green;
+    text-align: center;
+    text-decoration-line: underline;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+     display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+      
+  }
+  ul{
+    color: white;
+    text-align: center;
+    list-style-type: none
+  }
+  #shape{
+    position: absolute;
+    top: 300px;
+    right: 425px;
+    font-size: larger;
+    
+  }
+  #shape:hover{
+    background-color:  red;
+  }
+  #shapeOf{
+    position: absolute;
+    top: 350px;
+    right: 500px;
+    font-size: larger;
+  }
+  #shapeOf:hover{
+    background-color: green;
+  }
+  #ed{
+    position: absolute;
+    top: 400px;
+    right: 500px;
+    font-size: larger;
+  }
+  #ed:hover{
+    
+        text-shadow: 0 0 3px #FF0000;
+       
+  }
+  /* song 2 */
+  #week1{
+    position: absolute;
+    top: 700px;
+    right: 425px;
+    font-size: larger;
+  }
+  #week1:hover{
+    background-color:  red;
+  }
+  #week2{
+    position: absolute;
+    top: 750px;
+    right: 525px;
+    font-size: larger;
+  }
+  #week3{
+    position: absolute;
+    top: 800px;
+    right: 525px;
+    font-size: larger;
+  }
+  #week2:hover{
+    background-color: green;
+  }
+  #week3:hover{
+    text-shadow: 0 0 3px #FF0000;
+  }
+  /* song3 */
+  #monkey1{
+    position: absolute;
+    top: 1100px;
+    right: 425px;
+    font-size: larger;
+  }
+  #monkey3{
+    position: absolute;
+    top: 1200px;
+    right: 525px;
+    font-size: larger;
+  }
+  #monkey2{
+    position: absolute;
+    top: 1150px;
+    right: 525px;
+    font-size: larger;
+  }
+  #monkey1:hover{
+    background-color:  red;
+  }
+  #monkey2:hover{
+    background-color: green;
+  }
+  #monkey3:hover{
+    text-shadow: 0 0 3px #FF0000;
+  }
+  /* song4 */
+  #rock1{
+    position: absolute;
+    top: 1500px;
+    right: 425px;
+    font-size: larger;
+  }
+  #rock2{
+    position: absolute;
+    top: 1550px;
+    right: 525px;
+    font-size: larger;
+  }
+  #rock3{
+    position: absolute;
+    top: 1600px;
+    right: 525px;
+    font-size: larger;
+  }
+  #rock1:hover{
+    background-color:  red;
+  }
+  #rock2:hover{
+    background-color: green;
+  }
+  #rock3:hover{
+    text-shadow: 0 0 3px #FF0000;
+  }
+  /* song5 */
+  #love1{
+    position: absolute;
+    top: 1900px;
+    right: 425px;
+    font-size: larger;
+  }
+  #love2{
+    position: absolute;
+    top: 1950px;
+    right: 525px;
+    font-size: larger;
+  }
+  #love3{
+    position: absolute;
+    top: 2000px;
+    right: 525px;
+    font-size: larger;
+  }
+  #love1:hover{
+    background-color:  red;
+  }
+  #love2:hover{
+    background-color: green;
+  }
+  #love3:hover{
+    text-shadow: 0 0 3px #FF0000;
+  }
+  /* #song6{ */
+#dance1{
+    position: absolute;
+    top: 2300px;
+    right: 425px;
+    font-size: larger;
+}
+#dance2{
+    position: absolute;
+    top: 2350px;
+    right: 525px;
+    font-size: larger;
+}
+#dance3{
+    position: absolute;
+    top: 2400px;
+    right: 525px;
+    font-size: larger;
+}
+#dance1:hover{
+    background-color: red;
+}
+#dance2:hover{
+    background-color :green ;
+}
+#dance3:hover{
+    text-shadow: 0 0 3px #FF0000;
+}
+/* song7 */
+#sun1{
+    position: absolute;
+    top: 2600px;
+    right: 425px;
+    font-size: larger;
+}
+#sun2{
+    position: absolute;
+    top: 2650px;
+    right: 525px;
+    font-size: larger; 
+}
+#sun3{
+    position: absolute;
+    top: 2700px;
+    right: 525px;
+    font-size: larger;
+}
+#sun1:hover{
+background-color: red;
+}
+  #sun2:hover{
+    background-color: green;
+  }
+  #sun3:hover{
+    text-shadow: 0 0 3px #FF0000;
+  }
+/* song 8 */
+#close1{
+    position: absolute;
+    top: 2900px;
+    right: 425px;
+    font-size: larger;
+}
+#close2{
+    position: absolute;
+    top: 2950px;
+    right: 525px;
+    font-size: larger;
+}
+#close3{
+    position: absolute;
+    top: 3000px;
+    right: 525px;
+    font-size: larger;
+}
+#close1:hover{
+    background-color: red;
+}
+#close2:hover{
+    background-color: green;
+}
+#close3:hover{
+    text-shadow: 0 0 3px #FF0000;
+}
+/* song 9 */
+#sui1{
+    position: absolute;
+    top: 3200px;
+    right: 425px;
+    font-size: larger;
+}
+#sui2{
+    position: absolute;
+    top: 3250px;
+    right: 525px;
+    font-size: larger;
+}
+#sui3{
+    position: absolute;
+    top: 3300px;
+    right: 525px;
+    font-size: larger;
+}
+#sui1:hover{
+    background-color: red;
+}
+#sui2:hover{
+    background-color: green;
+}
+#sui3:hover{
+    text-shadow: 0 0 3px #FF0000
+}
+/* song10 */
+#belive1{
+    position: absolute;
+    top: 3600px;
+    right: 425px;
+    font-size: larger;
+}
+#belive2{
+    position: absolute;
+    top: 3650px;
+    right: 525px;
+    font-size: larger;
+}
+#belive3{
+    position: absolute;
+    top: 3700px;
+    right: 525px;
+    font-size: larger;
+}
+#belive1:hover{
+background-color: red;
+}
+#belive2:hover{
+    background-color: green;
+}
+#belive3:hover{
+    text-shadow: 0 0 3px #FF0000
+}
